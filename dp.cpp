@@ -190,7 +190,7 @@ Food food;
 void Startmenu(){
     system("cls");
     setColor(11); //Light blue color
-    cout<<"\n\n\tWelcome to Snake Game by Team Falcons!\n\n"<<endl;
+    cout<<"\n\n\tWelcome to Snake Game by Team buzzing bugs!\n\n"<<endl;
     setColor(6); //Yellow color
     cout<<"             \t1. Start Game"<<endl;
     cout<<"             \t2. Set Difficulty"<<endl;
